@@ -4,7 +4,7 @@ Dear Nominees,
 
 We appreciate your time and attention. We have prepared a simple challenge to assess your skills and discipline for this opportunity. The task is to develop an application that enables users to visualize the point cloud stored in a dataset file and navigate through the 3D visualization environment using the mouse.
 
-This challenge will be open from Thursday, May 16 at 12:00 AM (Tehran) until Friday, May 17 at 00:00 AM (Tehran). Any further updates will result in disqualification from the nominees.
+This challenge will be open from Thursday, May 16 at 12:00 PM (Tehran) until Friday, May 17 at 00:00 AM (Tehran). Any further updates will result in disqualification from the nominees.
 
 Good luck.
 
